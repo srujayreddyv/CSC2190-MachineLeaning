@@ -1,2 +1,1 @@
-# CSC2190-MachineLeaning
-CSC219- Machine Leaning 
+# CSC219- MachineLeaning (Fall 2023)
